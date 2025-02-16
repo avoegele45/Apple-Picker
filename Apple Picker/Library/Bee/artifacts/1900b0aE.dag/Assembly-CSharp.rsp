@@ -346,7 +346,12 @@
 "Assets/Scripts/Apple.cs"
 "Assets/Scripts/ApplePicker.cs"
 "Assets/Scripts/AppleTree.cs"
+"Assets/Scripts/BadApple.cs"
 "Assets/Scripts/Basket.cs"
+"Assets/Scripts/GameManager.cs"
+"Assets/Scripts/HighScore.cs"
+"Assets/Scripts/RoundCounter.cs"
+"Assets/Scripts/StartGameButton.cs"
 -langversion:9.0
 
 /deterministic
